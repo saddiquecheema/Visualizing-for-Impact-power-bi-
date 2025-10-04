@@ -70,5 +70,6 @@ Build a customer segmentation model for marketing strategies.
 
 👤 Author
 
-Farhan Mughal
-AI/ML & Data Scientist Enthusiast
+M.saddique
+
+
